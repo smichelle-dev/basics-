@@ -1,12 +1,12 @@
 ﻿using System;
 
 
-namespace EditorHtml{
+namespace Circulo{
     class Program
     {
         static void Main(string[]args){
-            Menu.ExibiMenu();
-           
+            
+AreaCirculo.RecebeDados();        
         }
     }
 }
